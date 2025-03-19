@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"Change from feature branch" 
-=======
-"Change from develop branch" 
->>>>>>> develop
+This line includes changes from both develop and feature branches.
